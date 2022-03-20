@@ -1,0 +1,11 @@
+ABS abab
+C c
+BS bbb
+C c
+BS b
+ABS ab
+BS b
+C c
+ABS ab
+BS b
+ABS ab
